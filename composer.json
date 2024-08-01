@@ -2,6 +2,7 @@
     "name": "payment4/cryptogateway",
     "description": "Payment4 Crypto Payment Gateway for Laravel",
     "type": "library",
+    "minimum-stability": "dev",
     "keywords": [
         "payment",
         "payment4",
