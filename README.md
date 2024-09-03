@@ -22,8 +22,8 @@ Next, you should publish the configuration file using the `vendor:publish` Artis
 
 ## Requirements
 
-- php "^7.2|^8.0"
-- laravel-framework "^7.0|^8.0|^9.0|^10.0"
+- php "^7.2|^8.0|^8.1|^8.2|^8.3"
+- laravel-framework "^7.0|^8.0|^9.0|^10.0|^11.0"
 - Register for Free or Login on the https://payment4.com
 - Create new gateway and get apiKey
 
